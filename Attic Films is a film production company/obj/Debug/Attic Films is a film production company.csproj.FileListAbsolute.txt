@@ -1,0 +1,78 @@
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe.config
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Database1.mdf
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Database1_log.ldf
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.pdb
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csprojResolveAssemblyReference.cache
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Client_frm.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Form1.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Main_frm.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Properties.Resources.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csproj.GenerateResource.Cache
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.exe
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.pdb
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Location_frm.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Production_frm.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_frm.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_production.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.staff_production.resources
+F:\btec HND esoft\02 Data base\assignment\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Staff_frm.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe.config
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.exe
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.pdb
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.pdb
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Client_frm.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Form1.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Location_frm.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Main_frm.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Production_frm.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Properties.Resources.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_frm.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_production.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Staff_frm.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.staff_production.resources
+C:\Users\user\Desktop\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe.config
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.exe
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.pdb
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.pdb
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Client_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Form1.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Location_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Main_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Production_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_production.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Staff_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.staff_production.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe.config
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.exe
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.pdb
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Client_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Form1.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Location_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Main_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Production_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Properties.Resources.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Property_production.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.Staff_frm.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic_Films_is_a_film_production_company.staff_production.resources
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\obj\Debug\Attic Films is a film production company.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.exe
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\bin\Debug\Attic Films is a film production company.pdb
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\bin\Debug\Database1.mdf
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\bin\Debug\Database1_log.ldf
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\bin\Debug\Database2.mdf
+C:\Users\user\Desktop\Unit_04DDD - Database Design and Development\Attic Films is a film production company - Copy\Attic Films is a film production company\bin\Debug\Database2_log.ldf
