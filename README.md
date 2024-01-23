@@ -10,3 +10,7 @@ Quiet Attic Films organize their data around the concept of a ‘production’. 
 ![image](https://github.com/gmandroroshe/Attic-Films-production-Company-/assets/144511926/977f86d5-7fe3-43c9-8ecb-6553077e7b3a)
 
 #SQLQuery1db2 Query only the database
+
+
+![Untitled Diagram drawio](https://github.com/gmandroroshe/Attic-Films-production-Company-/assets/144511926/60ab251f-8109-456a-91eb-9b5ad1cb24a7)
+
